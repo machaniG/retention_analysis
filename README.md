@@ -17,11 +17,11 @@ Third, a logistics failure exists in the Whale Mid-Tier customer segment, where 
 **Customer Segmentation Matrix**
 
                      Behavioral Value Segment
-               ------------------------------------------------
-Revenue Lens    Elite Wholesale | Champions | Mid-Tier | Mass
---------------------------------------------------------------
-Whales
-Long Tail
+               |------------------------------------------------|
+|Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass|
+|--------------------------------------------------------------|
+| Whales |
+| Long Tail |
 
 
 ## Key Findings:
@@ -76,8 +76,8 @@ Operational improvements in these segments could simultaneously:
 
 **Revenue share and Leakage**
 
-| Segment |	Customers | Revenue Share | Purchase Rate | AOV | Monthly Revenue / Customer | Return Rate | Revenue Leakage |
-| ----------- | ------------------| ---------- | -----------| ---------| -------------| -------------|
+| Segment |	Customers | Revenue Share | Purchase Rate | AOV | Monthly Revenue per Customer | Return Rate | Revenue Leakage |
+| ----------- | ------------------| ---------- | -----------| ---------| -------------| -------------| ------|
 | Whale Frequent Champions | 5 |	12.25% | 9.26 | £1,897 | £17,571 | 1.62% | 3.99% |
 | Whale Elite Wholesale Giants | 2 | 0.52% | 1.91 | £7,663 | £14,673 | 0.82% | 8.01% |
 | Whale Low Value Mass | 847 |	45.20% | 1.21 | £424 | £512 | 2.47% | 4.25% |
@@ -157,7 +157,7 @@ Increase repeat purchases and expand the active customer base.
 Targeted improvements can unlock meaningful revenue gains without increasing customer acquisition spending.
 
 | Segment |	Opportunity | Potential Value |
-| ----------- | ------------------| --------|
+| ----------- | ------------------| --------| 
 | Frequent Champions (5 active customers)| Maintain proactive relationships with these highest value accounts | Protect a large share of high-value revenue streams|
 | Versatile Mid-Tier Whales (256 active customers) | Convert 6% into Frequent Champions | Expand loyal champion customers to 20, increasing monthly revenue by 400%|
 | Versatile Mid-Tier Whales | Reduce return friction to 2.5% | 72,089 items would no longer be returned, saving up to £231,405 annually in reclaimed revenue + operational costs|
@@ -201,11 +201,11 @@ This helped answer: *How do customers behave?*
 Customer Segmentation Matrix
 
                       Behavioral Value Segment
-               ------------------------------------------------
-Revenue Lens    Elite Wholesale | Champions | Mid-Tier | Mass
---------------------------------------------------------------
-Whales
-Long Tail             
+               |------------------------------------------------|
+|Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass
+|--------------------------------------------------------------|
+|Whales |
+|Long Tail |             
 
 
 
