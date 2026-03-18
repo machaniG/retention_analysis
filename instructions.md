@@ -17,8 +17,8 @@ Open your terminal (or Command Prompt/PowerShell) and run:
 
 ```Bash
 
-git clone https://github.com/machaniG/retention_analysis.git
-cd retention_analysis
+git clone https://github.com/machaniG/growth_strategy_operational_optimization.git
+cd growth_strategy_operational_optimization
 ```
 
 3. Build the Docker Image
