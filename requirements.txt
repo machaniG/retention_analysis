@@ -1,8 +1,8 @@
-# Minimal runtime dependencies for the Mini CRM churn project
-numpy>=2.0  # Since your libraries now support 2.x
+# Minimal runtime dependencies for the project
+numpy>=2.0  
 pandas>=2.2.2  # First version fully compatible with NumPy 2.0
-scikit-learn>=1.5  # Or the specific version you just installed
-pyarrow>=17.0      # Modern versions have better NumPy 2 support
+scikit-learn>=1.5 
+pyarrow>=17.0      
 scipy>=1.13
 lifetimes>=0.11.3
 matplotlib>=3.9
