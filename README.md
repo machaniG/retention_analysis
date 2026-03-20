@@ -16,6 +16,13 @@ Third, a logistics failure exists in the Whale Mid-Tier customer segment, where 
 
 **Customer Segmentation Matrix**
 
+I did a three-dimensional customer diagnostic combining:
+- Pareto revenue segmentation
+- Behavioral customer segmentation
+- Lifecycle classification (active, churned, one-off)
+
+ And identified where the company’s revenue actually comes from, where it is being lost, and where the biggest opportunities for growth exist within the existing customer base.
+ 
                      Behavioral Value Segment
                     -----------------------------
     Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass
