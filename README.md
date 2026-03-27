@@ -22,16 +22,19 @@ I did a three-dimensional customer diagnostic combining:
 - Lifecycle classification (active, churned, one-off)
 
  And identified where the company’s revenue actually comes from, where it is being lost, and where the biggest opportunities for growth exist within the existing customer base.
- 
-                     Behavioral Value Segment
-                    -----------------------------
-    Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass
-    ----------------------------------------------------------------
-    Whales 
-    Long Tail 
+ ![customer matrix](assets/customer-matrix.png)
+_______
 
+ **From raw transactions**
 
-## Key Findings:
+ ![raw transaction data before analysis](assets/transactions.png)
+
+ **To customer features**
+
+ ![Derived customer features](assets/customer-features.png)
+_____
+
+## Key Findings
 
 ### The Core Business Problem
 
@@ -44,7 +47,7 @@ Besides, the business is also experiencing high frequency small returns primaril
 - Taken together, the bulk returns create the largest financial burden, while Low Value Mass customers create the largest operational workload.
 
 - Reducing Mid-Tier Whales Friction to 2.5% alone create an estimated £231,405 annual opportunity through improved quality control, product description, and product fit guidance.
-
+---
 ### A Small Group of Customers Generates the Majority of Revenue
 
 Revenue concentration is extreme. 
@@ -55,7 +58,7 @@ Revenue concentration is extreme.
 **Strategic Implication**
 
 The company’s growth and revenue stability depend heavily on a relatively small group of buyers. Protecting and expanding these relationships should be a strategic priority.
-
+____
 
 ### Operational Issues Are Concentrated Among the Most Valuable Customers
 
@@ -79,7 +82,7 @@ Operational improvements in these segments could simultaneously:
 - reduce cost
 - improve customer satisfaction
 - protect high-value revenue streams
-
+---
 
 **Revenue share and Leakage**
 
@@ -92,7 +95,7 @@ Operational improvements in these segments could simultaneously:
 | Long-Tail Versatile Mid-Tier | 426 | 3.57% | 0.79 | £405 | £322 | 0.72% | 1.18% |
 | Long-Tail Low Value Mass | 2715 |	16.44% | 0.75 | £232 | £174 | 1.71% | 3.24% |
 
-
+____
 ### High-Spending First-Time Buyers Are Not Converting Into Long-Term Customers
 
 A subset of customers (23 one_off Whales) makes extremely high-value first purchases but never returns. These buyers already demonstrate strong purchasing power but fail to convert into long-term customers, effectively 'leaking' high-potential LTV (Lifetime Value) at the very first touchpoint.
@@ -100,13 +103,13 @@ A subset of customers (23 one_off Whales) makes extremely high-value first purch
 **Strategic Recommendation**
 
 Improving onboarding and post-purchase engagement could unlock significant additional LTV.
-
+_____
 
 ## Primary Growth Levers
 
 1. Operational cost saving opportunity in high return segments by improving customer experience can reduce returns and drive revenue growth.
 2. Converting high-spending first-time buyers into long-term customers through post-purchase engagement to increase LTV.
-
+______
 
 ## Strategic Recommendations
 
@@ -158,6 +161,7 @@ Potential actions:
 **Business Outcome**
 
 Increase repeat purchases and expand the active customer base.
+______
 
 ## Revenue Opportunity Estimate
 
@@ -169,7 +173,7 @@ Targeted improvements can unlock meaningful revenue gains without increasing cus
 | Versatile Mid-Tier Whales (256 active customers) | Convert 6% into Frequent Champions | Expand loyal champion customers to 20, increasing monthly revenue by 400%|
 | Versatile Mid-Tier Whales | Reduce return friction to 2.5% | 72,089 items would no longer be returned, saving up to £231,405 annually in reclaimed revenue + operational costs|
 | High-spending new customers (23 one-off Whales) | Convert 7 to 10 into repeat buyers |Increase customer LVT up to 7 times, gaining £86,103 to £153,072 additional revenue annually|
-
+____
 
 ## Data Analysis Steps 
 
@@ -205,16 +209,12 @@ Segment:
 
 This helped answer: *How do customers behave?*
 
-Customer Segmentation Matrix
+3. Churn
 
-                      Behavioral Value Segment
-                    -------------------------------------------
-    Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass
-    ---------------------------------------------------------------
-    Whales 
-    Long Tail              
+Repeat customers were classified into **churned or active** based on a 90 days recency threshold while those with a frequency of one were labelled **one-off**.
+- This helped answer: *What fraction of the company's most valuable customers is still active?*          
 
-
+_____
 
 ## Recommended Immediate Actions
 
@@ -239,7 +239,7 @@ Bulk order fulfillment errors in the mid tier segment are the largest operationa
 Implement personalized onboarding for high value first time buyers.
 
 Target mid tier long tail customers with retention campaigns to convert them into high value customers.
-
+_____
 
 # Next Phase (V2)
 
